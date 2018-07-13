@@ -1,4 +1,13 @@
 
+/**
+ * 
+ *  Purpose of this program is to add the sum of any number pushed to sum()
+ *  Implemented two ways:-
+ *      1) simplest Way - With normal / simple loop
+ *      2) reduce Way
+ * 
+ */
+
 function sum(...arr){
 
     var total = 0;
